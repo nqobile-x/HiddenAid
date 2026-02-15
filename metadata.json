@@ -1,0 +1,9 @@
+{
+  "name": "HiddenAid",
+  "description": "A digital card wallet and AI assistant for individuals with hidden disabilities, featuring live voice conversations, accessible maps, and intelligent tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
